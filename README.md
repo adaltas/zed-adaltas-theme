@@ -37,7 +37,8 @@ It extends Andromeda with alternative colors. New colors are written in uppercas
     "terminal.ansi.bright_black": "#989898FF",
     "created": "#62E6CAFF",
     "modified": "#FFDD89FF",
-    "text": "#F1EFE6FF"
+    "text": "#F1EFE6FF",
+    "text.muted": "#D2E3EAFF"
   }
 }
 ```
