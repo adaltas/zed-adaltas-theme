@@ -1,7 +1,7 @@
 
 # Adaltas theme
 
-The [Adaltas](https://www.adaltas.com) theme is a Dark theme with decent contrast for the Zed editor. The theme is MIT licensed.
+The [Adaltas](https://www.adaltas.com) theme is an elegantly designed dark theme with sharp contrast colors for the Zed editor. The theme is MIT licensed.
 
 ![Theme preview](./assets/preview.png)
 
@@ -11,7 +11,9 @@ Please report any issue and improvement request on the [GitHub](https://github.c
 
 A penpot file is located inside the [./assets] folder to preview and tweak the colors.
 
-## Color choices
+## Colors
+
+### UI
 
 It extends Andromeda with alternative colors. New colors are written in uppercase to differentiate them from the original theme.
 
@@ -43,7 +45,7 @@ It extends Andromeda with alternative colors. New colors are written in uppercas
 }
 ```
 
-### Color sytax
+### Syntax
 
 ```json
 
