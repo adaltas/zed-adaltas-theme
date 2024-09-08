@@ -1,11 +1,11 @@
-id = "theme-adaltas"
+id = "adaltas-theme"
 name = "Adaltas Theme"
 version = "0.0.0"
 schema_version = 1
 description = "Dark theme with contrast."
-repository = "https://github.com/adaltas/zed-theme-adaltas"
+repository = "https://github.com/adaltas/zed-adaltas-theme"
 authors = ["David Worms <david@adaltas.com>"]
-themes = ["themes/theme-adaltas.json"]
+themes = ["themes/adaltas-theme.json"]
 languages = []
 
 [lib]
