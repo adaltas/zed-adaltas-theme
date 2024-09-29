@@ -365,6 +365,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "variable.special": {
+            "color": "#C4EDFFFF",
+            "font_style": null,
+            "font_weight": null
+          },
           "variant": {
             "color": "#E88DFFFF",
             "font_style": null,

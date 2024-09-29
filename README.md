@@ -48,126 +48,130 @@ It extends Andromeda with alternative colors. New colors are written in uppercas
 ### Syntax
 
 ```json
-
-"experimental.theme_overrides": {
-  "syntax": {
-    "attribute": {
-      "color": "#E88DFFFF"
-    },
-    "boolean": {
-      "color": "#96df71ff"
-    },
-    "comment": {
-      "color": "#afabb1ff"
-    },
-    "comment.doc": {
-      "color": "#afabb1ff"
-    },
-    "constant": {
-      "color": "#52D4C9FF"
-    },
-    "constructor": {
-      "color": "#E88DFFFF"
-    },
-    "embedded": {
-      "color": "#f7f7f8ff"
-    },
-    "emphasis": {
-      "color": "#E88DFFFF"
-    },
-    "emphasis.strong": {
-      "color": "#E88DFFFF",
-      "font_weight": 700
-    },
-    "enum": {
-      "color": "#82FABDFF"
-    },
-    "function": {
-      "color": "#fee56cff"
-    },
-    "hint": {
-      "color": "#618399ff",
-      "font_weight": 700
-    },
-    "keyword": {
-      "color": "#E88DFFFF"
-    },
-    "label": {
-      "color": "#E88DFFFF"
-    },
-    "link_text": {
-      "color": "#82FABDFF",
-      "font_style": "italic"
-    },
-    "link_uri": {
-      "color": "#FF77A7FF"
-    },
-    "number": {
-      "color": "#96df71ff"
-    },
-    "operator": {
-      "color": "#82FABDFF"
-    },
-    "predictive": {
-      "color": "#315f70ff",
-      "font_style": "italic"
-    },
-    "preproc": {
-      "color": "#f7f7f8ff"
-    },
-    "primary": {
-      "color": "#f7f7f8ff"
-    },
-    "property": {
-      "color": "#59CDFFFF"
-    },
-    "punctuation": {
-      "color": "#d8d5dbff"
-    },
-    "punctuation.bracket": {
-      "color": "#d8d5dbff"
-    },
-    "punctuation.delimiter": {
-      "color": "#d8d5dbff"
-    },
-    "punctuation.list_marker": {
-      "color": "#d8d5dbff"
-    },
-    "punctuation.special": {
-      "color": "#d8d5dbff"
-    },
-    "string": {
-      "color": "#82FABDFF"
-    },
-    "string.escape": {
-      "color": "#82FABDFF"
-    },
-    "string.regex": {
-      "color": "#82FABDFF"
-    },
-    "string.special": {
-      "color": "#82FABDFF"
-    },
-    "string.special.symbol": {
-      "color": "#82FABDFF"
-    },
-    "tag": {
-      "color": "#E88DFFFF"
-    },
-    "text.literal": {
-      "color": "#82FABDFF"
-    },
-    "title": {
-      "color": "#D59AFFFF"
-    },
-    "type": {
-      "color": "#08e7c5ff"
-    },
-    "variable": {
-      "color": "#C4EDFFFF"
-    },
-    "variant": {
-      "color": "#E88DFFFF"
+{
+  "experimental.theme_overrides": {
+    "syntax": {
+      "attribute": {
+        "color": "#E88DFFFF"
+      },
+      "boolean": {
+        "color": "#96df71ff"
+      },
+      "comment": {
+        "color": "#afabb1ff"
+      },
+      "comment.doc": {
+        "color": "#afabb1ff"
+      },
+      "constant": {
+        "color": "#52D4C9FF"
+      },
+      "constructor": {
+        "color": "#E88DFFFF"
+      },
+      "embedded": {
+        "color": "#f7f7f8ff"
+      },
+      "emphasis": {
+        "color": "#E88DFFFF"
+      },
+      "emphasis.strong": {
+        "color": "#E88DFFFF",
+        "font_weight": 700
+      },
+      "enum": {
+        "color": "#82FABDFF"
+      },
+      "function": {
+        "color": "#fee56cff"
+      },
+      "hint": {
+        "color": "#618399ff",
+        "font_weight": 700
+      },
+      "keyword": {
+        "color": "#E88DFFFF"
+      },
+      "label": {
+        "color": "#E88DFFFF"
+      },
+      "link_text": {
+        "color": "#82FABDFF",
+        "font_style": "italic"
+      },
+      "link_uri": {
+        "color": "#FF77A7FF"
+      },
+      "number": {
+        "color": "#96df71ff"
+      },
+      "operator": {
+        "color": "#82FABDFF"
+      },
+      "predictive": {
+        "color": "#315f70ff",
+        "font_style": "italic"
+      },
+      "preproc": {
+        "color": "#f7f7f8ff"
+      },
+      "primary": {
+        "color": "#f7f7f8ff"
+      },
+      "property": {
+        "color": "#59CDFFFF"
+      },
+      "punctuation": {
+        "color": "#d8d5dbff"
+      },
+      "punctuation.bracket": {
+        "color": "#d8d5dbff"
+      },
+      "punctuation.delimiter": {
+        "color": "#d8d5dbff"
+      },
+      "punctuation.list_marker": {
+        "color": "#d8d5dbff"
+      },
+      "punctuation.special": {
+        "color": "#d8d5dbff"
+      },
+      "string": {
+        "color": "#82FABDFF"
+      },
+      "string.escape": {
+        "color": "#82FABDFF"
+      },
+      "string.regex": {
+        "color": "#82FABDFF"
+      },
+      "string.special": {
+        "color": "#82FABDFF"
+      },
+      "string.special.symbol": {
+        "color": "#82FABDFF"
+      },
+      "tag": {
+        "color": "#E88DFFFF"
+      },
+      "text.literal": {
+        "color": "#82FABDFF"
+      },
+      "title": {
+        "color": "#D59AFFFF"
+      },
+      "type": {
+        "color": "#08e7c5ff"
+      },
+      "variable": {
+        "color": "#C4EDFFFF"
+      },
+      "variable.special": {
+        "color": "#C4EDFFFF"
+      },
+      "variant": {
+        "color": "#E88DFFFF"
+      }
     }
   }
 }
